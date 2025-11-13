@@ -21,8 +21,6 @@
 
   <ItemGroup>
     <Folder Include="Mapeamento\" />
-    <Folder Include="Interface\" />
-    <Folder Include="Repositorio\" />
   </ItemGroup>
 
 </Project>
